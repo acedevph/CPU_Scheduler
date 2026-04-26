@@ -191,6 +191,11 @@ README.md                  ← this file
 
 ---
 
+## Author
+**acedevph**
+
+---
+
 ## 📄 License
 
 This project is released for educational use. Feel free to modify and redistribute with attribution.
